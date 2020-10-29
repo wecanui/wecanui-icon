@@ -1,0 +1,11 @@
+{
+  "name": "wecanui-icon",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "wecanui <806606688@qq.com>",
+  "description": "wecanui的svg图标库",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:wecanui/wecanui-icon.git"
+  }
+}

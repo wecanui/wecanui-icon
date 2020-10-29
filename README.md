@@ -4,4 +4,6 @@
 
 图标源为：ionicons
 
-可下载此图标库后，放到自己服务器上布署
+CSDN地址：https://cdn.jsdelivr.net/npm/wecanui-icon/v5.2.3/ 
+
+（不保证永久能用，建议下载到本地，然后布署到自有服务器上）
